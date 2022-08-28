@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/quote-machine-react-app/static/css/main.7ad0485f.css",
+    "main.js": "/quote-machine-react-app/static/js/main.80a2a285.js",
+    "static/js/787.954a70d5.chunk.js": "/quote-machine-react-app/static/js/787.954a70d5.chunk.js",
+    "static/media/JosefinSans-Regular.ttf": "/quote-machine-react-app/static/media/JosefinSans-Regular.0e82e3d2c82cf1e38a33.ttf",
+    "static/media/JosefinSans-ExtraLight.ttf": "/quote-machine-react-app/static/media/JosefinSans-ExtraLight.53c153966eea73b88e6c.ttf",
+    "index.html": "/quote-machine-react-app/index.html",
+    "main.7ad0485f.css.map": "/quote-machine-react-app/static/css/main.7ad0485f.css.map",
+    "main.80a2a285.js.map": "/quote-machine-react-app/static/js/main.80a2a285.js.map",
+    "787.954a70d5.chunk.js.map": "/quote-machine-react-app/static/js/787.954a70d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ad0485f.css",
+    "static/js/main.80a2a285.js"
+  ]
+}
